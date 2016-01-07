@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta chartset="UTF-8">
+    <meta name="keywords" content="opera, winter opera, program, winter opera program, operadojo, Laura Ann Heckmann, Classical Singer, Paul Bertolami, Metropolitan Opera, USA based Opera,
+    singers, classical music, Hansel and Gretel, engelbert humperdink, CT Opera, connecticut opera, connecticut lyric opera, stanford opera">
+    <metat name="description" content="Welcome to Winter Opera Program 2016, Our opera training program is designed to provide singers with the skills and processes necessary to perform opera.
+     We will explore Engelbert Humperdink's intentions in his opera 'Hansel unt Gretel', in order to deepen thses abilities."></metat>
+    <meta chartset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>Winter Opera Program</title>
 

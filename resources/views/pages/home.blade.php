@@ -23,7 +23,7 @@
                 These include: singing, acting, speaking the language authentically, learning the music for a specific role accurately, and analyzing/interpreting the text (story-telling).</p>
             <p>Singers need a safe, positive, collaborative, and fun environment that is performance based to grow.
                 This program seeks to align the traditional private vocal studio studies with group oriented performance opportunities that focus on bread and butter literature.
-                In this winter program, we will explore Engel Humperdinck's intentions in his opera, <i>Hansel unt Gretel</i>, in order to deepen these abilities.</p>
+                In this winter program, we will explore Engelbert Humperdinck's intentions in his opera, <i>Hansel unt Gretel</i>, in order to deepen these abilities.</p>
             <p>The acting strategies are based heavily in the work of Anton Chekhov and have been modified to accommodate the needs of opera singers.
                 Participants will learn how to create a character and incorporate suggestions to produce varying interpretations in a given environment.
                 It is very important to understand the opera from a literary, musical, and historical perspective.

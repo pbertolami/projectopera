@@ -11,12 +11,12 @@
                 <hr>
             <p>This program seeks to create an environment where singers can come together to train like vocal Olympians outside of the isolated studio.
                 This program will focus on the training process of learning an opera to become singing actors.
-                We believe people succeed in groups! This program seeks to be a one stop destination for intensive opera training to build repertoire and take artistic risks.
+                We believe people succeed in groups! This program is a one stop destination for intensive opera training to build repertoire and take artistic risks.
                 </p>
 
                 <p>Details: Winter Opera Program is located in CT 90 minutes outside of the New York City.  Over the course of seven weeks singers will have an individual instruction for an hour a week and mandatory group instruction on a weekend day (probably Sunday).
-                    That hour of individual instruction may involve another if working on a duet and time allows.</p>
-                    <p>Transportation by limousine for NYC based singers or from airport, housing accommodations, and meals are available for an additional nominal fee once tuition is paid.
+                    </p>
+                    <p>Transportation by limousine for NYC based singers or from tri state airports, housing accommodations, and meals are available for an additional nominal fee once tuition is paid.
                     Tuition is $980 for this training program for new students only.   Instructors to be determined. One partial scholarship is available. No pre-casting!
                     Selections from the opera will be performed with staging in addition to original work created by the participants for peer to peer sharing.
                     The performance pieces will be staged and in costume.
@@ -38,7 +38,7 @@
                 <h2>Contact Info:</h2>
                 <p>winteroperaprogram@yahoo.com</p>
                 <p>203-788-2624</p>
-                <div><img alt="Hansel and Gretel" src="image/operalady.gif" style="width: 250px; height:225px;"></div><br>
+                <div><img alt="Hansel and Gretel" src="image/operalady.gif" style="width: 250px; height:200px;"></div><br>
 
             </div>
 
