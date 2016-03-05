@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta name="keywords" content="opera, winter opera, program, winter opera program, operadojo, Laura Ann Heckmann, Classical Singer, Paul Bertolami, Metropolitan Opera, USA based Opera,
-    singers, classical music, Hansel and Gretel, engelbert humperdink, CT Opera, connecticut opera, connecticut lyric opera, stanford opera">
-    <metat name="description" content="Welcome to Winter Opera Program 2016, Our opera training program is designed to provide singers with the skills and processes necessary to perform opera.
-     We will explore Engelbert Humperdink's intentions in his opera 'Hansel unt Gretel', in order to deepen thses abilities."></metat>
+    singers, classical music, Hansel and Gretel, engelbert humperdink, CT Opera, connecticut opera, connecticut lyric opera, stanford opera"/>
+    <meta name="description" content="Welcome to Winter Opera Program 2016, Our opera training program is designed to provide singers with the skills and processes necessary to perform opera.
+     We will explore Engelbert Humperdink's intentions in his opera 'Hansel unt Gretel', in order to deepen thses abilities."/>
     <meta chartset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>Winter Opera Program</title>
+    <title>Cloverleaf Opera Program</title>
 
     <link rel="stylesheet" href="/css/app.css">
     <link rel="stylesheet" href="/css/stylesheet1.css">
@@ -28,15 +28,15 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Winter</a>
+            <a class="navbar-brand" href="#">Cloverleaf Opera Program</a>
         </div>
 
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
 
                     <li><img class="img-responsive" src="/image/shamrocknote.jpg" style="width: 90px; height: 90px;"/></li>
-                    <li class="navbar-toggle"><a href="/">Opera</a></li>
-                    <li class="navbar-toggle"><a href="/about">Program</a></li>
+                    <li class="navbar-toggle"><a href="/">Home</a></li>
+                    <li class="navbar-toggle"><a href="/about">About</a></li>
 
 
             </ul>

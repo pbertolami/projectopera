@@ -7,8 +7,8 @@
     <div class="jumbotron" style="padding-top: 70px;">
 
         <div><img alt="Hansel and Gretel" src="image/hansel.jpg" style="width: 600px; height:400px;"></div>
-        <h1>Winter Opera Program</h1>
-        <h3>Training starts March 2016</h3>
+        <h1>Cloverleaf Opera Program</h1>
+        <h3>Training starts July 2016</h3>
         <p>
         </p>
         <p><a class="btn btn-primary btn-lg" href="/about" role="button" >Learn more</a></p>
