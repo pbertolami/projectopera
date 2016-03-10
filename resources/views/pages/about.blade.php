@@ -17,7 +17,7 @@
                 <p>Details: Cloverleaf Opera Program is located in CT 90 minutes outside of the New York City.  Over the course of the opera intensive,
                     singers will receive both individual and group instruction during the week. The tentative schedule is Monday through Friday. Mornings will consist of acting including movement,
                     dance, and group time followed by lunch. Afternoon will consist of a lecture/activity followed by rehearsal with vocal coachings held individually througout the week.
-                    Weekends are for extra help, tech rehersals, and extra rehersals as needed.  Weekend attendance and availability is strongly encouraged but not mandatory.
+                    Weekends are for extra help, tech rehersals, and extra rehersals as needed.
                     </p>
                     <p>Transportation by limousine for NYC based singers or from tri state airports, housing accommodations, and food are available for an additional nominal fee once tuition is paid.
                     Tuition is $980 for this training program for new students only.   Instructors to be determined. One partial scholarship is available. No pre-casting!
